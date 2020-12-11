@@ -15,7 +15,7 @@ if(Metody.czy_parzysta(liczba1))
 System.out.println("liczba jest parzysta");
 else
 	System.out.println("liczba nie jest parzysta");
-System.out.println("git");
+System.out.println("git2");
 
 }
 }
